@@ -1,0 +1,9 @@
+[alias]
+	s = status
+	d = diff
+	dc = diff --cached
+	l = log --all --graph --oneline --decorate
+	lp = log -p
+	c = commit
+	sw = switch
+	a = add

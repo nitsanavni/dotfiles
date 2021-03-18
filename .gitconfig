@@ -7,3 +7,4 @@
 	c = commit
 	sw = switch
 	a = add
+	f = fetch

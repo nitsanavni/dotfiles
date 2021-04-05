@@ -8,3 +8,4 @@
 	sw = switch
 	a = add
 	f = fetch --prune
+	rb = rebase

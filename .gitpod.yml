@@ -5,4 +5,3 @@ image:
 tasks:
   - command: |
       git config --global include.path ~/dotfiles/.gitconfig
-      sudo docker-up &
